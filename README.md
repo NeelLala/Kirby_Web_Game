@@ -1,4 +1,7 @@
 # Kirby_Web_Game
+Game showcase: <br />
+![](./public/Showcase.gif)
+<br />
 A kirby style web game made using Kaboom.js and Tiled. 
 
 npm run dev to play - Controls: WASD/Arrow keys to move and Ctrl/Z for kirby suction.
@@ -18,6 +21,3 @@ Level 3: <br />
 
 Asset tileset used: <br />
 ![](./public/kirby.png)
-
-Game showcase: <br />
-![](./public/Showcase.gif)
